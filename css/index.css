@@ -18,9 +18,58 @@
 
 
 
+    /* HEADER  */
+
+.first-header{
+    background-color: aqua;
+    height: 50px;
+}
+
+.second-header{
+    background-color: blue;
+    height: 600px;
+
+}
 
 
 
+
+    /*  FINE HEADER  */
+
+    /* MAIN  */
+
+    section{
+        height: 600px;
+    
+    }
+    .section{
+        background-color: lightgray;
+    
+    }
+
+
+
+
+    /*  FINE MAIN  */
+
+
+    /* FOOTER  */
+
+.first-footer{
+    height: 600px;
+    background-color: rgb(66, 65, 65);
+
+}
+
+.second-footer{
+    height: 50px;
+    background-color: rgb(66, 65, 65);
+    margin-top: 2px;
+
+}
+
+
+    /* FINE FOOTER  */
 
 
 /* DEGUB */
